@@ -38,4 +38,4 @@ A mental math game that generates two random numbers and asks the user to sum th
 ---
 
 ## 📫 Contact
-Feel free to reach out via [GitHub](https://github.com/miguelmolinacedeno) or [LinkedIn](https://www.linkedin.com/in/miguel-angel-molina-cede%C3%B1o-782432134/).  
+Feel free to reach out via [GitHub](https://github.com/miguelmolinacedeno-stack) or [LinkedIn](https://www.linkedin.com/in/miguel-angel-molina-cede%C3%B1o-782432134/).  
