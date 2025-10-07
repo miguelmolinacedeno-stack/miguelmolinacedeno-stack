@@ -11,27 +11,27 @@
 **Languages:** Java, JavaScript, Python (basic)  
 **Databases:** MySQL, SQLite  
 **Tools:** Git, GitHub, Visual Studio Code, IntelliJ  
-**Currently learning:** REST APIs, Android development. 
+**Currently learning:** REST APIs, Android development, cloud basics  
 
 ---
 
 ## 📚 Projects
 
-### 1️⃣ 🌳 [Tallest Tree Finder (Java)](https://github.com/miguelmolinacedeno/miguelmolinacedeno-stack/blob/main/TallestTreeFinder/TallestTreeFinder.java)
+### 1️⃣ [🌳 Tallest Tree Finder (Java)](TallestTreeFinder/TallestTreeFinder.java)
 A simple console application that tracks the height of urban trees and identifies the tallest one.  
 **Key features:**  
 - Clean code and simple logic  
 - Loops and conditional statements  
 - User input handling  
 
-### 2️⃣ 🔢 [Digit Counter (Java)](https://github.com/miguelmolinacedeno/miguelmolinacedeno-stack/blob/main/DigitCounter/DigitCounter.java)
+### 2️⃣ [🔢 Digit Counter (Java)](DigitCounter/DigitCounter.java)
 A console app that counts the number of digits in a given integer until the user enters 0.  
 **Key features:**  
 - Loops and arithmetic operations  
 - Handles negative numbers  
 - Easy-to-read output  
 
-### 3️⃣ 🧠 [Mental Math Game (Java)](https://github.com/miguelmolinacedeno/miguelmolinacedeno-stack/blob/main/MentalMathGame/MentalMathGame.java)
+### 3️⃣ [🧠 Mental Math Game (Java)](MentalMathGame/MentalMathGame.java)
 A mental math game that generates two random numbers and asks the user to sum them. The game continues until the user makes a mistake.  
 **Key features:**  
 - Random number generation  
@@ -41,4 +41,4 @@ A mental math game that generates two random numbers and asks the user to sum th
 ---
 
 ## 📫 Contact
-Feel free to reach out via [GitHub](https://github.com/miguelmolinacedeno) or [LinkedIn](https://www.linkedin.com/in/miguel-angel-molina-cede%C3%B1o-782432134/)
+Feel free to reach out via [GitHub](https://github.com/miguelmolinacedeno) or LinkedIn.
