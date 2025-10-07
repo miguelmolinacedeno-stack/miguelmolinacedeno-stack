@@ -1,19 +1,16 @@
 # 👋 Hi, I'm Miguel Ángel Molina Cedeño
 
 💻 Currently studying a Higher Vocational Degree in Multiplatform Application Development (Spain)  
-🌱 Learning Java, SQL, JavaScript, APIs, and mobile development  
-🚀 Passionate about building clean, functional, and user-focused applications  
+🌱 Learning Java, MySQL, SQL, JavaScript, and programming fundamentals  
+🗣️ Languages: Spanish (native), English (highly fluent), French (highly fluent)  
+🚀 Passionate about clean, functional, and user-focused applications  
 🌍 Open to international remote opportunities  
-
----
 
 ## 🛠️ Technologies & Tools
 **Languages:** Java, JavaScript, Python (basic)  
 **Databases:** MySQL, SQLite  
 **Tools:** Git, GitHub, Visual Studio Code, IntelliJ  
-**Currently learning:** REST APIs, Android development, cloud basics  
-
----
+**Currently learning:** Java programming, database handling, software logic  
 
 ## 📚 Projects
 
@@ -41,4 +38,4 @@ A mental math game that generates two random numbers and asks the user to sum th
 ---
 
 ## 📫 Contact
-Feel free to reach out via [GitHub](https://github.com/miguelmolinacedeno) or LinkedIn.
+Feel free to reach out via [GitHub](https://github.com/miguelmolinacedeno) or [LinkedIn](https://www.linkedin.com/in/miguel-angel-molina-cede%C3%B1o-782432134/).  
